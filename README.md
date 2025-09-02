@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Ahmad Kheir, an aspiring AI Engineer passionate about building intelligent systems and leveraging data to create impactful solutions.
+
+Currently enrolled in an AI Career Accelerator, I’m gaining hands-on expertise in:
+
+Machine Learning (ML)
+
+Deep Learning (DL)
+
+Generative AI
+
+Computer Vision
+
+Automation Tools
