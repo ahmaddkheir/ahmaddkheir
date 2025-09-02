@@ -27,4 +27,5 @@ Generative AI
 Computer Vision
 
 Automation Tools
+
 📫 How to reach me: ahmadmkheirr@gmail.com | +96171659547
